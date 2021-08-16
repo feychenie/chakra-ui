@@ -1,5 +1,24 @@
 # Change Log
 
+## 1.6.7
+
+### Patch Changes
+
+- Updated dependencies
+  [[`ed8301181`](https://github.com/chakra-ui/chakra-ui/commit/ed830118114231624eb1538f183134a5741a16f7),
+  [`9cdbf4127`](https://github.com/chakra-ui/chakra-ui/commit/9cdbf412710e99085b832aa63e1c1df720227f14),
+  [`b41191868`](https://github.com/chakra-ui/chakra-ui/commit/b4119186862a11959e7a3af0c1963ec0d7a10b88),
+  [`83eecb75f`](https://github.com/chakra-ui/chakra-ui/commit/83eecb75f5bec58ea60e800122ce63c3d96c6a25),
+  [`a48449550`](https://github.com/chakra-ui/chakra-ui/commit/a484495501970cba793b709505c714c2b12304d6),
+  [`6532f97eb`](https://github.com/chakra-ui/chakra-ui/commit/6532f97eb13105e126881f709f48f1270ac7f5c9),
+  [`633df562f`](https://github.com/chakra-ui/chakra-ui/commit/633df562f4ab22ae5406d5a5cda7661171fc8a65)]:
+  - @chakra-ui/slider@1.2.9
+  - @chakra-ui/skeleton@1.1.18
+  - @chakra-ui/radio@1.3.10
+  - @chakra-ui/layout@1.4.9
+  - @chakra-ui/theme@1.10.1
+  - @chakra-ui/toast@1.2.11
+
 ## 1.6.6
 
 ### Patch Changes
